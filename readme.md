@@ -55,4 +55,5 @@ This is the hw02 sample. Please follow the steps below.
 
 --------------------
 
-Please take your note here.
+From image png_001, we can see assembly warning us that we need to  ascende the register.
+From image png_003, we can see assembly helping us initiavely to ascende the register.
